@@ -1,6 +1,6 @@
-<h1>posting-board</h1>
+<h1 align="center">posting-board</h1>
 
-<p>A posting board I developed for practising my JavaScript skills.</p>
+<p align="center">A posting board I developed for practising my JavaScript skills.</p>
 
 <div align="center">
   
